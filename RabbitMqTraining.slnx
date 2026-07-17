@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="docker-compose.yml" />
+  </Folder>
+  <Project Path="RabbitMqTraining.Api/RabbitMqTraining.Api.csproj" Id="2c73c66b-9955-48ec-918b-d880c4bdcfe4" />
+  <Project Path="RabbitMqTraining.Application/RabbitMqTraining.Application.csproj" Id="b0166e9c-845c-499a-9c10-3fb588c47bf1" />
+  <Project Path="RabbitMqTraining.Consumer/RabbitMqTraining.Consumer.csproj" />
+  <Project Path="RabbitMqTraining.Core/RabbitMqTraining.Core.csproj" />
+  <Project Path="RabbitMqTraining.Infrastructure/RabbitMqTraining.Infrastructure.csproj" Id="48af9ebc-0e47-433c-851e-bb4dd925509c" />
+  <Project Path="RabbitMqTraining.Publisher/RabbitMqTraining.Publisher.csproj" />
+  <Project Path="RabbitMqTraining.Worker/RabbitMqTraining.Worker.csproj" Id="7ef3cffa-36f3-4107-a590-d74b0a4018d8" />
+</Solution>
