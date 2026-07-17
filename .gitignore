@@ -1,0 +1,80 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+.coverage
+.cache/
+.pytest_cache/
+.mypy_cache/
+.venv/
+env/
+venv/
+.pyenv-virtualenvs/
+
+# .env files
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+log/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+.vs/
+*.suo
+*.ntvs*
+*.njsproj
+
+# Dump files
+*.dump
+*.swp
+*.swo
+
+# Backup files
+*~
+.#*
+
+# Build output (C# / .NET)
+bin/
+obj/
+
+# Docker / RabbitMQ specific
+docker-compose.override.yml
+docker-compose-local.yml
+*.dockerfile
+
+# Test artifacts
+coverage/
+htmlcov/
+.junit
+junit.xml
+TEST-output.properties
+
+# RabbitMQ message persistence caches
+*.queue.cache
+*.exchange.cache
+
+# C# / .NET user-specific files (keep .csproj, .slnx, and Properties/ tracked)
+*.csproj.user
